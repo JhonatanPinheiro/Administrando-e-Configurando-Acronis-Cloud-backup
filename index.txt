@@ -1,0 +1,49 @@
+-----------------CONHECENDO A SOLUÇÃO ACRONIS BACKUP CLOUD----------------
+SOBRE ACRONIS
+
+    Fundada em Cingapura em 2003 e incorporada na Suíça em 2008, a Acronis 
+possui mais de 1.300 funcionários em 18 países. Suas soluções possuem
+a confiança mais de 5 milhões de consumidores e 500.00 empresas, incluindo
+79 das 100 marca mais valiosas do mundo. A Acronis possui presença em 150 países
+e está disponível em 20 idiomas . Ela provê soluções de backup e restauração, disaster recovery,
+replicação, proteção contra ransomware e acesso seguro a dados.
+
+
+SOBRE O ACRONIS BACKUP CLOUD 
+
+    Acronis Backup cloud é uma solução unificada de disaster recovery, backup,
+restore , migração e replicação para ambientes físicos, virtuais e mobile
+com console de gerenciamento web baseado na nuvem.
+
+CARACTERÍSCAS DO ACRONIS BACKUP CLOUD
+    Console de gerenciamento web na nuvem compatível com PCs, tablets e smartphones
+que permite gerir agentes geograficamente distantes.
+
+    Protege ambientes físicos ou virtuais com Windows , MAC ou Linux
+
+    Protege aplicações de negócio Microsoft (Active Directory, SQL Server,
+SharePoint e Exchange) e bases de dados Oracle 
+
+    Proteção avançada de ambientes virtualizados VMware, Hyper-V, Nutanix, Citrix,
+Virtuoso e Red Hat Virtualization
+
+    Protege dispositivos mobile com IOS e Android 
+
+    Permite o backup de instancias do Microsoft Azure e Amazon EC2.
+
+    Protege o Microsoft Exchange Online , OneDrive for Business e SharePoint 
+online com backup de nuvem para nuvem 
+
+    Proteja os dados do cliente armazenados no Gmail e no Google Drive (incluindo Team Drive), Contratos e Calendário e
+garante um recuperação confiável.
+
+    Protege seu ambiente contra ransomware e mineração de criptomoedas
+
+    Backups protegidos com criptografia alta AES 256
+
+    Realiza backups e imagens de disco sem necessidade de parada para rede Microsoft, NFS, NAS em disco externos.
+    
+    Permite armazenamento flexível, expansível e econômico de backups no serviço Acronis Cloud Storage
+
+
+3. Conhecendo a solução acronis backup cloud institucional
