@@ -47,3 +47,164 @@ garante um recuperação confiável.
 
 
 3. Conhecendo a solução acronis backup cloud institucional
+
+4.Apresentação do Treinamento 
+    Em 1951, a primeira geração de computador digital aparaceu quando o UNIVAC 1 (Universal Automatic Computer)
+foi construído. Utilizou tubos de vácuo como principais elementos lógicos, tambores magnéticos rotativos para 
+armazenamento interno de dados e programas e cartões perfurados para entrada e armazenamento externo de dados
+
+DESAFIOS DO CENÁRIO 
+    - Uma TI que opera de forma reativa não está habilitada a auxiliar e permitir a inovação do negócio
+
+INFRAESTRUTURA
+    - Prover e administrar uma infraestrutura de TI robusta, que permite a inovação
+
+SEGURANÇA
+    - Proteger o ambiente de TI e as informações do negócio contra ameaças cibernéticas.
+
+NEGÓCIOS
+    - Potencializar as condições oferecidas pela infraestrutura para inovar, atender os anseios dos clientes e crescer
+
+GESTÃO DE BACKUP
+    O monitoramento e a Gestão dos Eventos de backup podem ser realizados em um moderno NEGÓCIOS
+
+    PERFORMANCE 
+    Deixando sua empresa à frente das necessidades do negócios , torne-se um facilitador da operação.
+
+
+GESTÃO DA SEGURANÇA
+    Já imaginou perde todos seus registros financeiros , banco de dados de cliente ou até mesmo lançamentos do seu estoque ? Isso geraria 
+    muita dor de cabeça! A notícia boa é que a automação dos BKP's minimiza expressivamente estes riscos até mesmo de ataques...
+
+
+TIPOS DE BACKUP 
+    - BACKUP FULL (Completo)
+    - BACKUP INCREMENTAL
+    - BACKUP DIFERENCIAL
+
+
+O que vamos fazer ?
+Instalação e Configuração
+Solução de Backup
+    - Criar cliente
+    - Criar backups
+    - Criar Jobs de Backups
+    - Recuperação de Backups 
+    - Recuperação de backups de VMS
+
+-------------------------------------5.01 Conceitos sobre Backup-------------------------------------
+
+O objetivo de montar um procedimento de backup, corporativo ou residencial, é ter uma ou mais cópias de segurança 
+fora do sistema principal, seja ele apenas um celular ou um sistema de armazenamento profissional para recuperação dos dados
+em caso de desastre
+
+Muitas empresas e usuários domésticos tem  utilizado equipamentos como discos externos, pen-drives, drives de mídias ópticas ou sistemas 
+baseados em fita para duplicar suas informações e nuvem ! 
+
+Backuo e recuperação  
+    Ao entender e atribuir valor ás informações armazenadas, mais empresas e usuários tem buscado alternativas melhores para fazer suas cópias de segurança.
+
+    Como investir nesse processo assemelha-se a comprar um seguro, o contratante  só descobre que fez uma má escolha após se deparar com um sinistro.
+
+    O processo de recuperar dados do backup realizado é conhecido como restauração e, mais importante que manter as cópias de segurança atualizadas,
+conseguir restaura-las em caso de desastre e imprescindível.
+
+
+Para que serve o Backup? 
+    Somos todos reféns de nossas informaçõesl, sejam elas apenas uma lista de contatos do celular ou milhares de prontuários médicos armazenados dentro de 
+grandes servidores.
+    O objetivo de montar um procedimento de backup, corporativo ou residencial, é ter uma ou mais cópia  de segurança fora do 
+sistema operacional principal, seja ele apenas um celular ou um sistema de armazenamento profissional para recuperação dos dados em caso de desastre.
+
+Backup e Restauração
+    Ao entender e atribuir valor a informação armazenados, mais empresas e usuários tem buscado alternativas melhores para fazer suasm cópias de segurança
+
+    Como investir nesse processo assemelha-se a comprar um seguro, o contratante só descobre que fez uma má escolha após se deparar com um sinistro.
+
+    O Processo de recuperar dados do backup realizado é conhecido como restauração e , mais importante que manter as cópias de segurança atualizadas, conseguir restaurá-las em caso
+de desastre é imprescindível.
+
+-----------------------------------------6.0.2 Conceito sobre tipos de backups------------------------
+TIPOS DE BACKUPS
+
+Apesar de grande parte dos usuários acharem que todosos dados são cópiados a cada operação de backup realiza, isso quase nunca acontece.
+
+A maioria dos softwares possuem recursos para diminuir o tempo com essa operação, seja copiando dados de uma agenda de um celular ou um banco de dados corporativos.
+
+Assim, a mairoia dos softwares de backup monitoram as atualizações das informações e copiam somente dados alterados. Isso significa menor 
+tempo de cópia, consumo de energia e espaço utlizado, reduzindo assim valores diversos custos.
+
+
+Quais são os tipos de Backups? 
+
+-> Backup Completo
+    O Backup completo é aquele no qual se realiza a cópia de todos os arquivos de determinado ambiente ou servidor, para outro local de armazenamento, seja local, virtual ou na nuvem ! 
+        Sua principal vantagem é a existência de uma reprodução fiel e completa de todas informações do ambiente em questão.
+             Dos tipos de backup, é o que demanda maior espaço de armazenamento e demora mais para ser completado, justamente pelo volume de dados ser maior
+
+-> Backup diferencial 
+    O backup diferencial é semelhante ao incremental. Porém, os dados copiados são os alterados em relação ao último Backup Completo, armazenando mais dados do que o incremental.
+        Em questão de velocidade de realização do procedimento, ele é o intermediário entre os três tipos de backup. Pois requer mais espaço de armazenamento do que incremental
+            Devido sua maior facilidade de recuperação, a grosso modo, há uma maior segurança dos dados armazenados, diminuindo as chances de perda no processo.
+
+-> Backup Incremental 
+    O Backup Incremental é o tipo que copia os arquivos que foram alterados desde o último backup desse tipo (FULL). Os seus principais benefícios são a rápida realização e também o 
+fato de ocupar um menor espaço de armazenamento, porém a restauração é mais demorada e mais suscetível a problemas.
+    Porque, para restaurar esse backup e necessário todos os backups incrementais anterios ao restore, sendo menos seguro e mais provável a possíveis a erros.
+
+-> Backup Incremental continuo
+    Backup Incremental Continuo, essa nova modalidade de backup é semelhante à anterior, mas possui alguns diferentes. A mesma possui a automação do processo de recuperação de dados, ou seja,
+você não precisa verificar quais banco de dados precisam ser recuperados . Essa é principal diferença do Backup incremental.
+
+Funciona basicamente como um backup completo. Possui agilidade e transparência de uso, permitindo assim uma rapidez na recuperação. Isso sem falar que tem a necessidade de um espaço de armazenamento menor que aos demais.
+
+
+
+-----------------------------------------7.0.3 RPO e RTO: Compreendendo as diferenças ! --------------------------------
+ 
+ A TI precisa definir diferentes tempos de recuperação e objetivos pontuais de acordo com seu orçamento, recursos e prioridade de aplicação. Esse dois objetivos são conhecidos 
+como Objetivo de tempo de recuperação (RTO) e Objetivo de ponto de recuperação (RPO)
+
+Os desastres vêm em muitas formas, Corrupção, roubo, perda ou desastre natural podem derrubar seus aplicativos e destruir seus dados. Em um mundo ideal, sua infraestrutura de proteção de dados restauraria imediatamente todos os aplicativos e  
+dados na hora e no ponto de falha. 
+
+
+Chamamos esses dois objetivos:
+
+RTO  -> Objetivo de tempo de recuperação
+RPO -> Objetivo de ponto de recuperação
+
+Eles estão relacionados e ambos são necessários para a recuperação de aplicativos e dados . Eles também são métricas diferentes com finalidades diferentes.
+
+
+Vamos falar sobre o que são, suas semelhanças e diferenças e por que você precisa analizar a prioridade de seu aplicativo para equilibrar os recuroso e a disponibilidade do aplicativo.
+
+RTO  refere-se a quanto tempo um aplicativo pode ficar inativo sem causar danos significativos aos negócios. Alguns aplicativos podem ficar inativos por dias sem 
+consequências significativas. Alguns aplicativos de alta prioridade só podem ficar inativos por alguns segundos , sem causar irritação dos funcionários, raiva do cliente e perda de negócios.
+    Sua missão RTO é categorizar os aplicativos por prioridade e perda potencial de negócios e combinar seus recursos de acordo. Por exemplo, planos típicos para RTOs quase zero exigirão serviços
+de failover . Os RTOs de 4 horas permitem a recuperação local, começando com bare mental retore e terminando com aplicação total e disponibilidade de dados. Para 
+RTOS de 8 horas ou mais , a TI pode assinar contratos de manutenção com integradores de sistema locais.
+
+
+RPO referem-se à tolerância à perda da sua empresa: a quantidade de dados que pode ser perdida antes que ocorram danos significativos aos negócios. O objetivo é expresso como Uma
+medida de tempo do evento de perda até o backup anterior mais recente.
+    Se você fizer backups de todos ou da maioria fod seus dados em incrementos de 24 horas regularmente programados, na pior das hipóteses você perderá 24horas de dados. Para algumas aplicações,
+isso é aceitável. Para outros, absolutamente não .
+
+
+----------------------------------------------8.0.4 CONSIDERAÇÕES DE CUSTOS E INVESTIMENTOS------------------------
+    Uma empresa com uma receita anual de $100 milhões perderia cerca de $275.000 durante um período de inatividade de 24 horas . A empresa perderia cerca de U$ 45.000 no 
+no cronograma de replicação de snapshop de 4 horas e cerca de U$ 7.600 usando replicação contínua quase zero.
+    Na prática, esse número pode ser menor ou maior dependendo da hora do dia e da atividade do aplicatico. Um aplicativo crítico para a missão ou negócio ocupado perderia mais dados e dados de maior prioridade do que um
+aplicativo menos frequente. Mas perder um quarto de milhão de dólares em 24 horas ? Muito possível e inaceitável.
+"Planeja seus RPOs e RTOs de acordo e adquira os recursos de que precisa antes de precisar deles. Assim como seguro, talvez você nunca precise usá-los - e como o seguro, eles podem salvar o seu negócio"
+
+Tecnologias utilizadas:
+    - Unidade de fita lançamentos
+    - Storage de backup
+    - Armazenamento externo(guarda de fitas)
+    - Backup em nuvem
+    
+
+
+
